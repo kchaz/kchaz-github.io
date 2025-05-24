@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "STAT 288: Deep Statistics: AI and Earth Observations for Sustainable Development"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/DeepStatistics
+venue: "Harvard University, Department of Statistics"
+date: Spring 2024, 2025
+location: "Cambridge, MA"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+Course
 
 Heading 1
 ======
