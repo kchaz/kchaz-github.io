@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Kyla Chasalow / Site Title"
+title                    : "Kyla Chasalow"
 title_separator          : "-"
 name                     : &name "Kyla Chasalow"
 description              : &description "PhD Student at Harvard Department of Statistics"
