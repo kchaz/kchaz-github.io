@@ -7,13 +7,9 @@ venue: "Harvard University, Department of Statistics"
 date: Spring 2024, 2025
 location: "Cambridge, MA"
 ---
-Course
 
-Heading 1
+Course Abstract
 ======
 
-Heading 2
-======
-
-Heading 3
+TODO
 ======
