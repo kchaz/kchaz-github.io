@@ -3,13 +3,12 @@ title: "STAT 288: Deep Statistics: AI and Earth Observations for Sustainable Dev
 collection: teaching
 type: "Graduate Course, Teaching Assistant"
 permalink: /teaching/STAT288
-venue: "Harvard University, Department of Statistics"
-date: 2024, 2025
+venue: "Harvard University, Department of Statistics, Spring 2024 and 2025"
+date: 
 location: "Cambridge, MA"
 ---
 **Instructors:** [Xiao-Li Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng) and [Adel Daoud](https://adeldaoud.com/) 
 
-**Teaching Assistant:** Kyla Chasalow (Spring 2024 and 2025)
 
 Course Abstract
 ======
