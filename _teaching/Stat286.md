@@ -2,7 +2,7 @@
 title: "Stat 286: Causal Inference with Applications"
 collection: teaching
 type: "Graduate Course, Teaching Assistant"
-permalink: /teaching/stat286
+permalink: /teaching/STAT286
 venue: "Harvard University, Department of Statistics"
 date: Fall 2023
 location: "Cambridge, MA"
