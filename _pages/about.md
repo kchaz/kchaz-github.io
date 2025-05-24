@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-Coming Soon
+Coming Soon - Site Under Development
 
