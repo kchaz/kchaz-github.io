@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Kyla Chasalow"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "" 
   location         : "Cambridge, MA"
   employer         : "Harvard University"
   uri              : # URL
