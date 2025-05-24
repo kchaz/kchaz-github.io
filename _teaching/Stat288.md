@@ -8,6 +8,7 @@ date: 2024, 2025
 location: "Cambridge, MA"
 ---
 **Instructors:** [Xiao-Li Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng) and [Adel Daoud](https://adeldaoud.com/) 
+
 **Teaching Assistant** Kyla Chasalow (Spring 2024 and 2025)
 
 Course Abstract
