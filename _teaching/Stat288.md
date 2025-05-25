@@ -3,7 +3,7 @@ title: "STAT 288: Deep Statistics: AI and Earth Observations for Sustainable Dev
 collection: teaching
 type: "Graduate Course, Teaching Assistant"
 permalink: /teaching/STAT288
-venue: "Harvard University, Department of Statistics, Spring 2024 and 2025"
+venue: "Harvard University, Department of Statistics"
 date: 2025-01-01
 location: "Cambridge, MA"
 ---
