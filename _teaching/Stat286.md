@@ -7,7 +7,7 @@ venue: "Harvard University, Department of Statistics"
 date: 2023-09-01
 location: "Cambridge, MA"
 ---
-**Instructor:** [Kosuke Imai](https://imai.fas.harvard.edu). You can find the course notes I wrote for the course [here](https://github.com/kchaz/CausalCourseNotes). I occasionally update these when I learn new things or have new insights about how to explain some of the topics covered.
+**Instructor:** [Kosuke Imai](https://imai.fas.harvard.edu). You can find the course notes I wrote for the course [here](https://github.com/kchaz/CausalCourseNotes). I occasionally update these when I learn new things or have new insights on how to explain some of the topics covered.
 
 
 **Offered:** Fall 2023
