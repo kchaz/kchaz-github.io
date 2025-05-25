@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course, Teaching Assistant"
 permalink: /teaching/STAT288
 venue: "Harvard University, Department of Statistics, Spring 2024 and 2025"
-date: "2025"
+date: 2025-01-01
 location: "Cambridge, MA"
 ---
 **Instructors:** [Xiao-Li Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng) and [Adel Daoud](https://adeldaoud.com/) 
