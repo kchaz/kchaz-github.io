@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course, Teaching Assistant"
 permalink: /teaching/STAT188
 venue: "Harvard University, Department of Statistics, Fall 2024"
-date: "2024"
+date: 2024-09-01
 location: "Cambridge, MA"
 ---
 **Instructor:** [Xiao-Li Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng) 
