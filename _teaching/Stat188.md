@@ -9,6 +9,8 @@ location: "Cambridge, MA"
 ---
 **Instructor:** [Xiao-Li Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng) 
 
+**Offered**: Fall 2024
+
 Course Abstract
 ======
 This course delves into the intriguing realms of variations, information, and privacy, with a attention to both their qualitative conceptualizations, such as contextual integrity, and their quantitative specifications, exemplified by differential privacy. Our primary goal is to examine these concepts through a foundational statistical lens, and study statistics from the dual perspectives of creating and limiting information from data. At the heart of our exploration is the concept of variations, serving as a unifying theme that intricately links information (revelatory variations) with uncertainty (obfuscatory variations). This nuanced approach enables us to recognize that the principles governing how we restrict the flow of information mirror those involved in generating information (the traditional focus of statistics).
