@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course, Teaching Assistant"
 permalink: /teaching/STAT288
 venue: "Harvard University, Department of Statistics, Spring 2024 and 2025"
-date: "2025"
+date: 2025
 offered: "Spring 2024, Spring 2025"
 location: "Cambridge, MA"
 ---
