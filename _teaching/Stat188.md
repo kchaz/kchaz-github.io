@@ -3,7 +3,7 @@ title: "STAT 188: Variations, Information, and Privacy"
 collection: teaching
 type: "Undergraduate Course, Teaching Assistant"
 permalink: /teaching/STAT188
-venue: "Harvard University, Department of Statistics, Fall 2024"
+venue: "Harvard University, Department of Statistics"
 date: 2024-09-01
 location: "Cambridge, MA"
 ---
