@@ -1,5 +1,5 @@
 ---
-title: "STAT 188: Variations, Information and Privacy"
+title: "STAT 188: Variations, Information, and Privacy"
 collection: teaching
 type: "Undergraduate Course, Teaching Assistant"
 permalink: /teaching/STAT188
