@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course, Teaching Assistant"
 permalink: /teaching/STAT286
 venue: "Harvard University, Department of Statistics"
-date: "2023"
+date: 2023-09-01
 location: "Cambridge, MA"
 ---
 **Instructor:** [Kosuke Imai](https://imai.fas.harvard.edu). You can find the course notes I wrote for the course [here](https://github.com/kchaz/CausalCourseNotes).
