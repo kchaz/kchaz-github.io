@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course, Teaching Assistant, Fall 2023"
 permalink: /teaching/STAT286
 venue: "Harvard University, Department of Statistics"
-date: "2023"
+date: 2023
 offered: "Fall 2023"
 location: "Cambridge, MA"
 ---
