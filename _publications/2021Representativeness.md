@@ -3,7 +3,7 @@ title: "Representativeness in Statistics, Politics, and Machine Learning"
 collection: publications
 category: manuscripts
 permalink: /publication/representativeness
-excerpt: "This paper is about the number 1. The number 2 is left for future work."
+excerpt: "An exploration of the concept of representativeness."
 date: 2021-01-01
 venue: "ACM Conference on Fairness, Accountability, and Transparency"
 paperurl: "https://dl.acm.org/doi/abs/10.1145/3442188.3445872"
